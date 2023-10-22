@@ -1,16 +1,8 @@
-# 
-
-# [Live](https://d-social-usupal.vercel.app/)
-## need to install [metamask chrome extention](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) to connect with ethereum wallet.  
-![screenshot](./src/assets/demo.png)
-# D-Social: A Decentralized Web3 Social Media Application
-
-
 <div align="center">
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>Decentralized Social Media Application</h1>
-<h3>◦Welcome to D-Social, a cutting-edge decentralized social media application that aims to create a secure and censorship-resistant social network. Built using ReactJS and utilizing the Lens API, D-Social offers microblogging features that enable users to share content and interact with one another in a completely decentralized environment. </h3>
+<br>d-social</h1>
+<h3>◦ HTTPStatus Exception: 429</h3>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
@@ -210,4 +202,3 @@ This project is licensed under the `ℹ️  LICENSE-TYPE` License. See the [LICE
 [↑ Return](#Top)
 
 ---
-
